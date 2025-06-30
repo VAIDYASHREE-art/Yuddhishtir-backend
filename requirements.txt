@@ -5,3 +5,7 @@ librosa
 pydantic
 scikit-learn
 numpy
+pandas
+streamlit
+python-dotenv
+openai

@@ -1,3 +1,4 @@
+print("✅ Backend booting up... importing modules...")
 import os
 import tempfile
 import librosa
