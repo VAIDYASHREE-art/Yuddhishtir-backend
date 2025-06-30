@@ -1,0 +1,38 @@
+/* styles.css */
+body {
+    background-color: pink;
+}
+
+body {
+    background-color: #f5f8fa;
+    font-family: 'Inter', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    color: #2c3e50;
+    font-weight: 700;
+}
+
+.stButton>button {
+    background-color: #3366cc;
+    color: white;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #274b8f;
+}
+
+.block-container {
+    padding-top: 2rem;
+}
+
+.stAudio {
+    border: 2px solid #dcdcdc;
+    padding: 10px;
+    border-radius: 10px;
+}

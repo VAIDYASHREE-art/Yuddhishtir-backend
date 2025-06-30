@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+whisper
+librosa
+pydantic
+scikit-learn
+numpy

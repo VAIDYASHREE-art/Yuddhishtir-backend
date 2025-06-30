@@ -1,0 +1,3551 @@
+{
+  "documents": [
+    {
+      "id": "proc_0",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA) - any % (not requiring admission).\nNeeds at least 5-6 dressing, Specialty: Burns Management, Price: ₹7,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA) - any % (not requiring admission).\nNeeds at least 5-6 dressing",
+        "specialty": "Burns Management",
+        "cost_inr": "7,000"
+      }
+    },
+    {
+      "id": "proc_1",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): Upto 40\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that\nare not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹40,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): Upto 40\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that\nare not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "40,000"
+      }
+    },
+    {
+      "id": "proc_2",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): 40% - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹50,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): 40% - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "50,000"
+      }
+    },
+    {
+      "id": "proc_3",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): > 60 %; Includes % TBSA skin grafted, flap cover, follow- up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not\namenable to heal with dressings alone., Specialty: Burns Management, Price: ₹80,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): > 60 %; Includes % TBSA skin grafted, flap cover, follow- up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not\namenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "80,000"
+      }
+    },
+    {
+      "id": "proc_4",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA) - any % (not requiring admission).\nNeeds at least 5-6 dressing, Specialty: Burns Management, Price: ₹7,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA) - any % (not requiring admission).\nNeeds at least 5-6 dressing",
+        "specialty": "Burns Management",
+        "cost_inr": "7,000"
+      }
+    },
+    {
+      "id": "proc_5",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): Upto 40\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹40,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): Upto 40\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "40,000"
+      }
+    },
+    {
+      "id": "proc_6",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): 40% - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that\nare not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹50,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): 40% - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that\nare not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "50,000"
+      }
+    },
+    {
+      "id": "proc_7",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): >  60\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹80,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): >  60\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "80,000"
+      }
+    },
+    {
+      "id": "proc_8",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA) - any % (not requiring admission).\nNeeds at least 5-6 dressing, Specialty: Burns Management, Price: ₹7,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA) - any % (not requiring admission).\nNeeds at least 5-6 dressing",
+        "specialty": "Burns Management",
+        "cost_inr": "7,000"
+      }
+    },
+    {
+      "id": "proc_9",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): Upto 40\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹40,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): Upto 40\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "40,000"
+      }
+    },
+    {
+      "id": "proc_10",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): 40 % - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹50,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): 40 % - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "50,000"
+      }
+    },
+    {
+      "id": "proc_11",
+      "text": "Procedure: % Total Body Surface Area Burns (TBSA): >  60\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹80,000",
+      "metadata": {
+        "procedure_name": "% Total Body Surface Area Burns (TBSA): >  60\n%; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "80,000"
+      }
+    },
+    {
+      "id": "proc_12",
+      "text": "Procedure: Electrical contact burns: Low voltage - without part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹30,000",
+      "metadata": {
+        "procedure_name": "Electrical contact burns: Low voltage - without part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "30,000"
+      }
+    },
+    {
+      "id": "proc_13",
+      "text": "Procedure: Electrical contact burns: Low voltage - with part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings\nalone., Specialty: Burns Management, Price: ₹40,000",
+      "metadata": {
+        "procedure_name": "Electrical contact burns: Low voltage - with part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings\nalone.",
+        "specialty": "Burns Management",
+        "cost_inr": "40,000"
+      }
+    },
+    {
+      "id": "proc_14",
+      "text": "Procedure: Electrical contact burns: High voltage - with part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹60,000",
+      "metadata": {
+        "procedure_name": "Electrical contact burns: High voltage - with part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "60,000"
+      }
+    },
+    {
+      "id": "proc_15",
+      "text": "Procedure: Electrical contact burns: High voltage - without part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings\nalone., Specialty: Burns Management, Price: ₹50,000",
+      "metadata": {
+        "procedure_name": "Electrical contact burns: High voltage - without part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings\nalone.",
+        "specialty": "Burns Management",
+        "cost_inr": "50,000"
+      }
+    },
+    {
+      "id": "proc_16",
+      "text": "Procedure: Chemical burns: Without significant facial scarring and/or loss of function; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹40,000",
+      "metadata": {
+        "procedure_name": "Chemical burns: Without significant facial scarring and/or loss of function; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "40,000"
+      }
+    },
+    {
+      "id": "proc_17",
+      "text": "Procedure: Chemical burns: With significant facial scarring and/or loss of function; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone., Specialty: Burns Management, Price: ₹60,000",
+      "metadata": {
+        "procedure_name": "Chemical burns: With significant facial scarring and/or loss of function; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",
+        "specialty": "Burns Management",
+        "cost_inr": "60,000"
+      }
+    },
+    {
+      "id": "proc_18",
+      "text": "Procedure: Post Burn Contracture surgeries for Functional Improvement (Package including splints, pressure garments, silicone - gel sheet and physiotherapy): Excluding Neck contracture; Contracture release with - Split thickness Skin Graft (STSG) / Full Thickness Skin Graft (FTSG) / Flap cover is done for each joint with post - operative regular dressings\nfor STSG / FTSG / Flap cover., Specialty: Burns Management, Price: ₹50,000",
+      "metadata": {
+        "procedure_name": "Post Burn Contracture surgeries for Functional Improvement (Package including splints, pressure garments, silicone - gel sheet and physiotherapy): Excluding Neck contracture; Contracture release with - Split thickness Skin Graft (STSG) / Full Thickness Skin Graft (FTSG) / Flap cover is done for each joint with post - operative regular dressings\nfor STSG / FTSG / Flap cover.",
+        "specialty": "Burns Management",
+        "cost_inr": "50,000"
+      }
+    },
+    {
+      "id": "proc_19",
+      "text": "Procedure: Post Burn Contracture surgeries for Functional Improvement (Package including splints, pressure garments, silicone - gel sheet and physiotherapy): Neck contracture; Contracture release with - Split thickness Skin Graft (STSG) /\nFull Thickness Skin Graft (FTSG) / Flap cover is done for each joint with post-operative regular\ndressings for STSG / FTSG / Flap cover., Specialty: Burns Management, Price: ₹50,000",
+      "metadata": {
+        "procedure_name": "Post Burn Contracture surgeries for Functional Improvement (Package including splints, pressure garments, silicone - gel sheet and physiotherapy): Neck contracture; Contracture release with - Split thickness Skin Graft (STSG) /\nFull Thickness Skin Graft (FTSG) / Flap cover is done for each joint with post-operative regular\ndressings for STSG / FTSG / Flap cover.",
+        "specialty": "Burns Management",
+        "cost_inr": "50,000"
+      }
+    },
+    {
+      "id": "proc_20",
+      "text": "Procedure: Laceration - Suturing / Dressing, Specialty: Emergency, Price: ₹2,000",
+      "metadata": {
+        "procedure_name": "Laceration - Suturing / Dressing",
+        "specialty": "Emergency",
+        "cost_inr": "2,000"
+      }
+    },
+    {
+      "id": "proc_21",
+      "text": "Procedure: Emergency with stable cardiopulmonary status, Specialty: Emergency, Price: ₹2,000",
+      "metadata": {
+        "procedure_name": "Emergency with stable cardiopulmonary status",
+        "specialty": "Emergency",
+        "cost_inr": "2,000"
+      }
+    },
+    {
+      "id": "proc_22",
+      "text": "Procedure: Emergency with unstable cardiopulmonary status with resuccitation, Specialty: Emergency, Price: ₹10,000",
+      "metadata": {
+        "procedure_name": "Emergency with unstable cardiopulmonary status with resuccitation",
+        "specialty": "Emergency",
+        "cost_inr": "10,000"
+      }
+    },
+    {
+      "id": "proc_23",
+      "text": "Procedure: Animal bites (Excluding Snake Bite), Specialty: Emergency, Price: ₹1,700",
+      "metadata": {
+        "procedure_name": "Animal bites (Excluding Snake Bite)",
+        "specialty": "Emergency",
+        "cost_inr": "1,700"
+      }
+    },
+    {
+      "id": "proc_24",
+      "text": "Procedure: Dural AVMs (per sitting) with glue, Specialty: Interventional\nNeuroradiology, Price: ₹70,000",
+      "metadata": {
+        "procedure_name": "Dural AVMs (per sitting) with glue",
+        "specialty": "Interventional\nNeuroradiology",
+        "cost_inr": "70,000"
+      }
+    },
+    {
+      "id": "proc_25",
+      "text": "Procedure: Dural AVFs (per sitting) with glue, Specialty: Interventional\nNeuroradiology, Price: ₹70,000",
+      "metadata": {
+        "procedure_name": "Dural AVFs (per sitting) with glue",
+        "specialty": "Interventional\nNeuroradiology",
+        "cost_inr": "70,000"
+      }
+    },
+    {
+      "id": "proc_26",
+      "text": "Procedure: Dural AVMs (per sitting) with onyx, Specialty: Interventional Neuroradiology, Price: ₹150,000",
+      "metadata": {
+        "procedure_name": "Dural AVMs (per sitting) with onyx",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "150,000"
+      }
+    },
+    {
+      "id": "proc_27",
+      "text": "Procedure: Dural AVFs (per sitting) with onyx, Specialty: Interventional Neuroradiology, Price: ₹150,000",
+      "metadata": {
+        "procedure_name": "Dural AVFs (per sitting) with onyx",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "150,000"
+      }
+    },
+    {
+      "id": "proc_28",
+      "text": "Procedure: Cerebral AVM embolization - Using Histoacryl\n(per sitting), Specialty: Interventional\nNeuroradiology, Price: ₹100,000",
+      "metadata": {
+        "procedure_name": "Cerebral AVM embolization - Using Histoacryl\n(per sitting)",
+        "specialty": "Interventional\nNeuroradiology",
+        "cost_inr": "100,000"
+      }
+    },
+    {
+      "id": "proc_29",
+      "text": "Procedure: Spinal AVM embolization - Using Histoacryl\n(per sitting), Specialty: Interventional\nNeuroradiology, Price: ₹100,000",
+      "metadata": {
+        "procedure_name": "Spinal AVM embolization - Using Histoacryl\n(per sitting)",
+        "specialty": "Interventional\nNeuroradiology",
+        "cost_inr": "100,000"
+      }
+    },
+    {
+      "id": "proc_30",
+      "text": "Procedure: Coil embolization for aneurysms\n(includes cost of first 3 coils + balloon and / or stent if used), Specialty: Interventional Neuroradiology, Price: ₹100,000",
+      "metadata": {
+        "procedure_name": "Coil embolization for aneurysms\n(includes cost of first 3 coils + balloon and / or stent if used)",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "100,000"
+      }
+    },
+    {
+      "id": "proc_31",
+      "text": "Procedure: Carotico-cavernous Fistula (CCF) embolization with coils.\n[includes 5 coils, guide catheter, micro-catheter,\nmicro-guidewire, general items], Specialty: Interventional Neuroradiology, Price: ₹30,000",
+      "metadata": {
+        "procedure_name": "Carotico-cavernous Fistula (CCF) embolization with coils.\n[includes 5 coils, guide catheter, micro-catheter,\nmicro-guidewire, general items]",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "30,000"
+      }
+    },
+    {
+      "id": "proc_32",
+      "text": "Procedure: Carotid-cavernous Fistula (CCF) embolization with balloon\n(includes one balloon, guide catheter, micro-\ncatheter, micro-guidewire, general items), Specialty: Interventional Neuroradiology, Price: ₹64,000",
+      "metadata": {
+        "procedure_name": "Carotid-cavernous Fistula (CCF) embolization with balloon\n(includes one balloon, guide catheter, micro-\ncatheter, micro-guidewire, general items)",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "64,000"
+      }
+    },
+    {
+      "id": "proc_33",
+      "text": "Procedure: Pre-operative tumour embolization (per session), Specialty: Interventional Neuroradiology, Price: ₹40,000",
+      "metadata": {
+        "procedure_name": "Pre-operative tumour embolization (per session)",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "40,000"
+      }
+    },
+    {
+      "id": "proc_34",
+      "text": "Procedure: Intracranial balloon angioplasty with stenting, Specialty: Interventional\nNeuroradiology, Price: ₹160,000",
+      "metadata": {
+        "procedure_name": "Intracranial balloon angioplasty with stenting",
+        "specialty": "Interventional\nNeuroradiology",
+        "cost_inr": "160,000"
+      }
+    },
+    {
+      "id": "proc_35",
+      "text": "Procedure: Intracranial thrombolysis / clot retrieval, Specialty: Interventional\nNeuroradiology, Price: ₹160,000",
+      "metadata": {
+        "procedure_name": "Intracranial thrombolysis / clot retrieval",
+        "specialty": "Interventional\nNeuroradiology",
+        "cost_inr": "160,000"
+      }
+    },
+    {
+      "id": "proc_36",
+      "text": "Procedure: Balloon test occlusion, Specialty: Interventional Neuroradiology, Price: ₹70,000",
+      "metadata": {
+        "procedure_name": "Balloon test occlusion",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "70,000"
+      }
+    },
+    {
+      "id": "proc_37",
+      "text": "Procedure: Parent vessel occlusion - Basic, Specialty: Interventional Neuroradiology, Price: ₹30,000",
+      "metadata": {
+        "procedure_name": "Parent vessel occlusion - Basic",
+        "specialty": "Interventional Neuroradiology",
+        "cost_inr": "30,000"
+      }
+    },
+    {
+      "id": "proc_38",
+      "text": "Procedure: Vertebroplasty, Specialty: Interventional\nNeuroradiology, Price: ₹40,000",
+      "metadata": {
+        "procedure_name": "Vertebroplasty",
+        "specialty": "Interventional\nNeuroradiology",
+        "cost_inr": "40,000"
+      }
+    },
+    {
+      "id": "proc_39",
+      "text": "Procedure: Right Heart Catheterization, Specialty: Cardiology, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "Right Heart Catheterization",
+        "specialty": "Cardiology",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_40",
+      "text": "Procedure: Left Heart Catheterization, Specialty: Cardiology, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "Left Heart Catheterization",
+        "specialty": "Cardiology",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_41",
+      "text": "Procedure: For Deep vein thrombosis (DVT), Specialty: Cardiology, Interventional Radiology, Price: ₹30,800",
+      "metadata": {
+        "procedure_name": "For Deep vein thrombosis (DVT)",
+        "specialty": "Cardiology, Interventional Radiology",
+        "cost_inr": "30,800"
+      }
+    },
+    {
+      "id": "proc_42",
+      "text": "Procedure: For Mesenteric Thrombosis, Specialty: Cardiology, Interventional Radiology, Price: ₹30,800",
+      "metadata": {
+        "procedure_name": "For Mesenteric Thrombosis",
+        "specialty": "Cardiology, Interventional Radiology",
+        "cost_inr": "30,800"
+      }
+    },
+    {
+      "id": "proc_43",
+      "text": "Procedure: For Peripheral vessels, Specialty: Cardiology, Interventional\nRadiology, Price: ₹30,800",
+      "metadata": {
+        "procedure_name": "For Peripheral vessels",
+        "specialty": "Cardiology, Interventional\nRadiology",
+        "cost_inr": "30,800"
+      }
+    },
+    {
+      "id": "proc_44",
+      "text": "Procedure: Coartication of Aorta, Specialty: Cardiology, Price: ₹38,600",
+      "metadata": {
+        "procedure_name": "Coartication of Aorta",
+        "specialty": "Cardiology",
+        "cost_inr": "38,600"
+      }
+    },
+    {
+      "id": "proc_45",
+      "text": "Procedure: Pulmonary Artrey Stenosis, Specialty: Cardiology, Price: ₹38,600",
+      "metadata": {
+        "procedure_name": "Pulmonary Artrey Stenosis",
+        "specialty": "Cardiology",
+        "cost_inr": "38,600"
+      }
+    },
+    {
+      "id": "proc_46",
+      "text": "Procedure: Balloon Pulmonary Valvotomy, Specialty: Cardiology, Price: ₹23,400",
+      "metadata": {
+        "procedure_name": "Balloon Pulmonary Valvotomy",
+        "specialty": "Cardiology",
+        "cost_inr": "23,400"
+      }
+    },
+    {
+      "id": "proc_47",
+      "text": "Procedure: Balloon Aortic Valvotomy, Specialty: Cardiology, Price: ₹23,400",
+      "metadata": {
+        "procedure_name": "Balloon Aortic Valvotomy",
+        "specialty": "Cardiology",
+        "cost_inr": "23,400"
+      }
+    },
+    {
+      "id": "proc_48",
+      "text": "Procedure: Balloon Mitral Valvotomy, Specialty: Cardiology, Price: ₹35,700",
+      "metadata": {
+        "procedure_name": "Balloon Mitral Valvotomy",
+        "specialty": "Cardiology",
+        "cost_inr": "35,700"
+      }
+    },
+    {
+      "id": "proc_49",
+      "text": "Procedure: Balloon Atrial Septostomy, Specialty: Cardiology, Price: ₹24,400",
+      "metadata": {
+        "procedure_name": "Balloon Atrial Septostomy",
+        "specialty": "Cardiology",
+        "cost_inr": "24,400"
+      }
+    },
+    {
+      "id": "proc_50",
+      "text": "Procedure: ASD Device Closure, Specialty: Cardiology, Price: ₹36,900",
+      "metadata": {
+        "procedure_name": "ASD Device Closure",
+        "specialty": "Cardiology",
+        "cost_inr": "36,900"
+      }
+    },
+    {
+      "id": "proc_51",
+      "text": "Procedure: VSD Device Closure, Specialty: Cardiology, Price: ₹37,900",
+      "metadata": {
+        "procedure_name": "VSD Device Closure",
+        "specialty": "Cardiology",
+        "cost_inr": "37,900"
+      }
+    },
+    {
+      "id": "proc_52",
+      "text": "Procedure: PDA Device Closure, Specialty: Cardiology, Price: ₹25,000",
+      "metadata": {
+        "procedure_name": "PDA Device Closure",
+        "specialty": "Cardiology",
+        "cost_inr": "25,000"
+      }
+    },
+    {
+      "id": "proc_53",
+      "text": "Procedure: PDA stenting, Specialty: Cardiology, Price: ₹40,260",
+      "metadata": {
+        "procedure_name": "PDA stenting",
+        "specialty": "Cardiology",
+        "cost_inr": "40,260"
+      }
+    },
+    {
+      "id": "proc_54",
+      "text": "Procedure: PTCA, inclusive of diagnostic angiogram, Specialty: Cardiology, Price: ₹40,600",
+      "metadata": {
+        "procedure_name": "PTCA, inclusive of diagnostic angiogram",
+        "specialty": "Cardiology",
+        "cost_inr": "40,600"
+      }
+    },
+    {
+      "id": "proc_55",
+      "text": "Procedure: Electrophysiological Study, Specialty: Cardiology, Price: ₹20,000",
+      "metadata": {
+        "procedure_name": "Electrophysiological Study",
+        "specialty": "Cardiology",
+        "cost_inr": "20,000"
+      }
+    },
+    {
+      "id": "proc_56",
+      "text": "Procedure: Electrophysiological Study with Radio Frequency Ablation, Specialty: Cardiology, Price: ₹20,000",
+      "metadata": {
+        "procedure_name": "Electrophysiological Study with Radio Frequency Ablation",
+        "specialty": "Cardiology",
+        "cost_inr": "20,000"
+      }
+    },
+    {
+      "id": "proc_57",
+      "text": "Procedure: Percutaneous Transluminal Septal Myocardial\nAblation, Specialty: Cardiology, Price: ₹34,000",
+      "metadata": {
+        "procedure_name": "Percutaneous Transluminal Septal Myocardial\nAblation",
+        "specialty": "Cardiology",
+        "cost_inr": "34,000"
+      }
+    },
+    {
+      "id": "proc_58",
+      "text": "Procedure: Temporary Pacemaker implantation, Specialty: Cardiology, CTVS, Price: ₹19,200",
+      "metadata": {
+        "procedure_name": "Temporary Pacemaker implantation",
+        "specialty": "Cardiology, CTVS",
+        "cost_inr": "19,200"
+      }
+    },
+    {
+      "id": "proc_59",
+      "text": "Procedure: Permanent Pacemaker Implantation -\nSingle Chamber, Specialty: Cardiology, CTVS, Price: ₹24,500",
+      "metadata": {
+        "procedure_name": "Permanent Pacemaker Implantation -\nSingle Chamber",
+        "specialty": "Cardiology, CTVS",
+        "cost_inr": "24,500"
+      }
+    },
+    {
+      "id": "proc_60",
+      "text": "Procedure: Permanent Pacemaker Implantation - Double Chamber, Specialty: Cardiology, CTVS, Price: ₹33,000",
+      "metadata": {
+        "procedure_name": "Permanent Pacemaker Implantation - Double Chamber",
+        "specialty": "Cardiology, CTVS",
+        "cost_inr": "33,000"
+      }
+    },
+    {
+      "id": "proc_61",
+      "text": "Procedure: Peripheral Angioplasty, Specialty: Cardiology, Price: ₹34,500",
+      "metadata": {
+        "procedure_name": "Peripheral Angioplasty",
+        "specialty": "Cardiology",
+        "cost_inr": "34,500"
+      }
+    },
+    {
+      "id": "proc_62",
+      "text": "Procedure: Bronchial artery Embolisation\n(for Haemoptysis), Specialty: Cardiology, Price: ₹32,800",
+      "metadata": {
+        "procedure_name": "Bronchial artery Embolisation\n(for Haemoptysis)",
+        "specialty": "Cardiology",
+        "cost_inr": "32,800"
+      }
+    },
+    {
+      "id": "proc_63",
+      "text": "Procedure: Pericardiocentesis, Specialty: Cardiology,\nGeneral Surgery, Price: ₹12,100",
+      "metadata": {
+        "procedure_name": "Pericardiocentesis",
+        "specialty": "Cardiology,\nGeneral Surgery",
+        "cost_inr": "12,100"
+      }
+    },
+    {
+      "id": "proc_64",
+      "text": "Procedure: Systemic Thrombolysis (for MI), Specialty: Cardiology, Price: ₹17,900",
+      "metadata": {
+        "procedure_name": "Systemic Thrombolysis (for MI)",
+        "specialty": "Cardiology",
+        "cost_inr": "17,900"
+      }
+    },
+    {
+      "id": "proc_65",
+      "text": "Procedure: Acute febrile illness, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute febrile illness",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_66",
+      "text": "Procedure: Severe sepsis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Severe sepsis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_67",
+      "text": "Procedure: Septic shock, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Septic shock",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_68",
+      "text": "Procedure: Malaria, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Malaria",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_69",
+      "text": "Procedure: Complicated malaria, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Complicated malaria",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_70",
+      "text": "Procedure: Dengue fever, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Dengue fever",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_71",
+      "text": "Procedure: Dengue hemorrhagic fever, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Dengue hemorrhagic fever",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_72",
+      "text": "Procedure: Dengue shock syndrome, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Dengue shock syndrome",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_73",
+      "text": "Procedure: Chikungunya fever, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Chikungunya fever",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_74",
+      "text": "Procedure: Enteric fever, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Enteric fever",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_75",
+      "text": "Procedure: HIV with complications, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "HIV with complications",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_76",
+      "text": "Procedure: Leptospirosis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Leptospirosis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_77",
+      "text": "Procedure: Acute gastroenteritis with moderate dehydration, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute gastroenteritis with moderate dehydration",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_78",
+      "text": "Procedure: Acute gastroenteritis with severe dehydration, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute gastroenteritis with severe dehydration",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_79",
+      "text": "Procedure: Chronic diarrohea, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Chronic diarrohea",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_80",
+      "text": "Procedure: Persistent diarrohea, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Persistent diarrohea",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_81",
+      "text": "Procedure: Dysentery, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Dysentery",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_82",
+      "text": "Procedure: Acute viral hepatitis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute viral hepatitis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_83",
+      "text": "Procedure: Chronic Hepatitis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Chronic Hepatitis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_84",
+      "text": "Procedure: Liver abscess, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Liver abscess",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_85",
+      "text": "Procedure: Visceral leishmaniasis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Visceral leishmaniasis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_86",
+      "text": "Procedure: Pneumonia, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Pneumonia",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_87",
+      "text": "Procedure: Severe pneumonia, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Severe pneumonia",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_88",
+      "text": "Procedure: Empyema, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Empyema",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_89",
+      "text": "Procedure: Lung abscess, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Lung abscess",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_90",
+      "text": "Procedure: Pericardial tuberculosis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Pericardial tuberculosis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_91",
+      "text": "Procedure: Pleural tuberculosis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Pleural tuberculosis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_92",
+      "text": "Procedure: Urinary Tract Infection, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Urinary Tract Infection",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_93",
+      "text": "Procedure: Viral encephalitis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Viral encephalitis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_94",
+      "text": "Procedure: Septic Arthritis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Septic Arthritis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_95",
+      "text": "Procedure: Skin and soft tissue infections, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Skin and soft tissue infections",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_96",
+      "text": "Procedure: Recurrent vomiting with dehydration, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Recurrent vomiting with dehydration",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_97",
+      "text": "Procedure: Pyrexia of unknown origin, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Pyrexia of unknown origin",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_98",
+      "text": "Procedure: Bronchiectasis, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Bronchiectasis",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_99",
+      "text": "Procedure: Acute bronchitis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute bronchitis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_100",
+      "text": "Procedure: Acute excaberation of COPD, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute excaberation of COPD",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_101",
+      "text": "Procedure: Acute excaberation of Interstitial Lung Disease, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute excaberation of Interstitial Lung Disease",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_102",
+      "text": "Procedure: Bacterial Endocarditis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Bacterial Endocarditis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_103",
+      "text": "Procedure: Fungal Endocarditis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Fungal Endocarditis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_104",
+      "text": "Procedure: Vasculitis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Vasculitis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_105",
+      "text": "Procedure: Acute pancreatitis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute pancreatitis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_106",
+      "text": "Procedure: Chronic pancreatitis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Chronic pancreatitis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_107",
+      "text": "Procedure: Ascites, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Ascites",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_108",
+      "text": "Procedure: Acute transverse myelitis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute transverse myelitis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_109",
+      "text": "Procedure: Atrial Fibrillation, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Atrial Fibrillation",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_110",
+      "text": "Procedure: Cardiac Tamponade, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Cardiac Tamponade",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_111",
+      "text": "Procedure: Congestive heart failure, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Congestive heart failure",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_112",
+      "text": "Procedure: Acute asthmatic attack, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute asthmatic attack",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_113",
+      "text": "Procedure: Status asthmaticus, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Status asthmaticus",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_114",
+      "text": "Procedure: Type 1 respiratory failure, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Type 1 respiratory failure",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_115",
+      "text": "Procedure: Type 2 respiratory failure, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Type 2 respiratory failure",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_116",
+      "text": "Procedure: Due to any cause (pneumonia, asthma, COPD, ARDS, foreign body, poisoning, head injury etc.), Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Due to any cause (pneumonia, asthma, COPD, ARDS, foreign body, poisoning, head injury etc.)",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_117",
+      "text": "Procedure: Upper GI bleeding (conservative), Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Upper GI bleeding (conservative)",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_118",
+      "text": "Procedure: Upper GI bleeding (endoscopic), Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Upper GI bleeding (endoscopic)",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_119",
+      "text": "Procedure: Lower GI hemorrhage, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Lower GI hemorrhage",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_120",
+      "text": "Procedure: Addison’s disease, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Addison’s disease",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_121",
+      "text": "Procedure: Renal colic, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Renal colic",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_122",
+      "text": "Procedure: AKI / Renal failure, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "AKI / Renal failure",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_123",
+      "text": "Procedure: Seizures, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Seizures",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_124",
+      "text": "Procedure: Status epilepticus, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Status epilepticus",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_125",
+      "text": "Procedure: Cerebrovascular accident, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Cerebrovascular accident",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_126",
+      "text": "Procedure: Cerebral sino-venous thrombosis, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Cerebral sino-venous thrombosis",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_127",
+      "text": "Procedure: Acute stroke, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute stroke",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_128",
+      "text": "Procedure: Acute ischemic stroke, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute ischemic stroke",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_129",
+      "text": "Procedure: Acute heamorrhagic stroke, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute heamorrhagic stroke",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_130",
+      "text": "Procedure: Immune mediated CNS disorders, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Immune mediated CNS disorders",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_131",
+      "text": "Procedure: Hydrocephalus, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hydrocephalus",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_132",
+      "text": "Procedure: Myxedema coma, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Myxedema coma",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_133",
+      "text": "Procedure: Thyrotoxic crisis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Thyrotoxic crisis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_134",
+      "text": "Procedure: Gout, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Gout",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_135",
+      "text": "Procedure: Pneumothroax, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Pneumothroax",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_136",
+      "text": "Procedure: Neuromuscular disorders, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Neuromuscular disorders",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_137",
+      "text": "Procedure: Hypoglycemia, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hypoglycemia",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_138",
+      "text": "Procedure: Diabetic Foot, Specialty: General Medicine, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Diabetic Foot",
+        "specialty": "General Medicine",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_139",
+      "text": "Procedure: Diabetic ketoacidosis, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Diabetic ketoacidosis",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_140",
+      "text": "Procedure: Hypercalcemia, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hypercalcemia",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_141",
+      "text": "Procedure: Hypocalcemia, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hypocalcemia",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_142",
+      "text": "Procedure: Hyponatremia, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hyponatremia",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_143",
+      "text": "Procedure: Hypernatremia, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hypernatremia",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_144",
+      "text": "Procedure: Hyperosmolar Non-Ketotic coma, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hyperosmolar Non-Ketotic coma",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_145",
+      "text": "Procedure: Accelerated hypertension, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Accelerated hypertension",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_146",
+      "text": "Procedure: Hypertensive emergencies, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Hypertensive emergencies",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_147",
+      "text": "Procedure: Severe anemia, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Severe anemia",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_148",
+      "text": "Procedure: Sickle cell Anemia, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Sickle cell Anemia",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_149",
+      "text": "Procedure: Anaphylaxis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Anaphylaxis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_150",
+      "text": "Procedure: Heat stroke, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Heat stroke",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_151",
+      "text": "Procedure: Systematic lupus erythematosus, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Systematic lupus erythematosus",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_152",
+      "text": "Procedure: Guillian Barre Syndrome, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Guillian Barre Syndrome",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_153",
+      "text": "Procedure: Snake bite, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Snake bite",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_154",
+      "text": "Procedure: Acute organophosphorus poisoning, Specialty: General Medicine, Pediatric Medical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Acute organophosphorus poisoning",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_155",
+      "text": "Procedure: Other poisonings, Specialty: General Medicine, Pediatric\nMedical Management, Price: ₹1,800",
+      "metadata": {
+        "procedure_name": "Other poisonings",
+        "specialty": "General Medicine, Pediatric\nMedical Management",
+        "cost_inr": "1,800"
+      }
+    },
+    {
+      "id": "proc_156",
+      "text": "Procedure: Haemodialysis Dialysis, Specialty: General Medicine, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Haemodialysis Dialysis",
+        "specialty": "General Medicine",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_157",
+      "text": "Procedure: Peritoneal Dialysis, Specialty: General Medicine, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Peritoneal Dialysis",
+        "specialty": "General Medicine",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_158",
+      "text": "Procedure: Plasmapheresis, Specialty: General Medicine, Pediatric Medical Management, Price: ₹2,000",
+      "metadata": {
+        "procedure_name": "Plasmapheresis",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "2,000"
+      }
+    },
+    {
+      "id": "proc_159",
+      "text": "Procedure: Whole Blood transfusion, Specialty: General Medicine, Pediatric Medical Management, Price: ₹2,000",
+      "metadata": {
+        "procedure_name": "Whole Blood transfusion",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "2,000"
+      }
+    },
+    {
+      "id": "proc_160",
+      "text": "Procedure: Blood component including platelet transfusion (RDP, PC, SDP), Specialty: General Medicine, Pediatric Medical Management, Price: ₹2,000",
+      "metadata": {
+        "procedure_name": "Blood component including platelet transfusion (RDP, PC, SDP)",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "2,000"
+      }
+    },
+    {
+      "id": "proc_161",
+      "text": "Procedure: High end radiological diagnostic\n(CT, MRI, Imaging including nuclear imaging), Specialty: General Medicine, Pediatric Medical Management, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "High end radiological diagnostic\n(CT, MRI, Imaging including nuclear imaging)",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_162",
+      "text": "Procedure: High end histopathology (Biopsies) and advanced serology investigations, Specialty: General Medicine, Pediatric Medical Management, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "High end histopathology (Biopsies) and advanced serology investigations",
+        "specialty": "General Medicine, Pediatric Medical Management",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_163",
+      "text": "Procedure: Mental Retardation, Specialty: Mental Disorders, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Mental Retardation",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_164",
+      "text": "Procedure: Mental disorders - Organic, including symptomatic, Specialty: Mental Disorders, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Mental disorders - Organic, including symptomatic",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_165",
+      "text": "Procedure: Schizophrenia, schizotypal and delusional disorders, Specialty: Mental Disorders, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Schizophrenia, schizotypal and delusional disorders",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_166",
+      "text": "Procedure: Neurotic, stress-related and somatoform disorders, Specialty: Mental Disorders, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Neurotic, stress-related and somatoform disorders",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_167",
+      "text": "Procedure: Mood (affective) disorders, Specialty: Mental Disorders, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Mood (affective) disorders",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_168",
+      "text": "Procedure: Behavioural syndromes associated with\nphysiological disturbances and physical factors, Specialty: Mental Disorders, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Behavioural syndromes associated with\nphysiological disturbances and physical factors",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_169",
+      "text": "Procedure: Mental and Behavioural disorders due to psychoactive substance use, Specialty: Mental Disorders, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Mental and Behavioural disorders due to psychoactive substance use",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_170",
+      "text": "Procedure: Pre - Electro Convulsive Therapy (ECT) and Pre - Transcranial Magnetic Stimulation (TMS) Package (Cognitive Tests, Complete Haemogram, Liver Function Test, Renal Function Test, Serum Electrolytes, Electro Cardiogram (ECG), CT / MRI Brain, Electroencephalogram, Thyroid Function Test, VDRL, HIV Test, Vitamin B12 levels, Folate levels, Lipid Profile, Homocysteine levels), Specialty: Mental Disorders, Price: ₹10,000",
+      "metadata": {
+        "procedure_name": "Pre - Electro Convulsive Therapy (ECT) and Pre - Transcranial Magnetic Stimulation (TMS) Package (Cognitive Tests, Complete Haemogram, Liver Function Test, Renal Function Test, Serum Electrolytes, Electro Cardiogram (ECG), CT / MRI Brain, Electroencephalogram, Thyroid Function Test, VDRL, HIV Test, Vitamin B12 levels, Folate levels, Lipid Profile, Homocysteine levels)",
+        "specialty": "Mental Disorders",
+        "cost_inr": "10,000"
+      }
+    },
+    {
+      "id": "proc_171",
+      "text": "Procedure: Electro Convulsive Therapy (ECT) - per session, Specialty: Mental Disorders, Price: ₹3,000",
+      "metadata": {
+        "procedure_name": "Electro Convulsive Therapy (ECT) - per session",
+        "specialty": "Mental Disorders",
+        "cost_inr": "3,000"
+      }
+    },
+    {
+      "id": "proc_172",
+      "text": "Procedure: Transcranial Magnetic Stimulation (TMS) - per session, Specialty: Mental Disorders, Price: ₹1,000",
+      "metadata": {
+        "procedure_name": "Transcranial Magnetic Stimulation (TMS) - per session",
+        "specialty": "Mental Disorders",
+        "cost_inr": "1,000"
+      }
+    },
+    {
+      "id": "proc_173",
+      "text": "Procedure: Basic neonatal care package: Babies that can be managed by side of mother in postnatal ward without requiring admission in SNCU/NICU:\n• Any newborn needing feeding support\n• Babies requiring closer monitoring or short-term care for conditions like:\no Birth asphyxia (need for positive pressure ventilation; no HIE)\no Moderate jaundice requiring phototherapy\no Large for dates (>97 percentile) Babies\no Small for gestational age (less than 3rd centile), Specialty: Neo - natal Care, Price: ₹500",
+      "metadata": {
+        "procedure_name": "Basic neonatal care package: Babies that can be managed by side of mother in postnatal ward without requiring admission in SNCU/NICU:\n• Any newborn needing feeding support\n• Babies requiring closer monitoring or short-term care for conditions like:\no Birth asphyxia (need for positive pressure ventilation; no HIE)\no Moderate jaundice requiring phototherapy\no Large for dates (>97 percentile) Babies\no Small for gestational age (less than 3rd centile)",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "500"
+      }
+    },
+    {
+      "id": "proc_174",
+      "text": "Procedure: Special Neonatal Care Package: Babies that required admission to SNCU or NICU:\nBabies admitted for short term care for conditions like:\n• Mild Respiratory Distress/tachypnea\n• Mild encephalopathy\n• Severe jaundice requiring intensive phototherapy\n• Haemorrhagic disease of newborn\n• Unwell baby requiring monitoring\n• Some dehydration\n• Hypoglycaemia\nMother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in the package rate, Specialty: Neo - natal Care, Price: ₹3,000",
+      "metadata": {
+        "procedure_name": "Special Neonatal Care Package: Babies that required admission to SNCU or NICU:\nBabies admitted for short term care for conditions like:\n• Mild Respiratory Distress/tachypnea\n• Mild encephalopathy\n• Severe jaundice requiring intensive phototherapy\n• Haemorrhagic disease of newborn\n• Unwell baby requiring monitoring\n• Some dehydration\n• Hypoglycaemia\nMother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in the package rate",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "3,000"
+      }
+    },
+    {
+      "id": "proc_175",
+      "text": "Procedure: Intensive Neonatal Care Package Babies with birthweight 1500-1799 g\nor\nBabies of any birthweight and at least one of the following conditions:\n• Need for mechanical ventilation for less than 24 hours or non-invasive respiratory support (CPAP, HFFNC)\n• Sepsis / pneumonia without complications\n• Hyperbilirubinemia requiring exchange transfusion\n• Seizures\n• Major congenital malformations (pre-surgical stabilization, not requiring ventilation)\n• Cholestasis significant enough requiring work up and in-hospital management\n• Congestive heart failure or shock Mother's stay and food in the hospital for\nbreastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in\nthe package rate, Specialty: Neo - natal Care, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "Intensive Neonatal Care Package Babies with birthweight 1500-1799 g\nor\nBabies of any birthweight and at least one of the following conditions:\n• Need for mechanical ventilation for less than 24 hours or non-invasive respiratory support (CPAP, HFFNC)\n• Sepsis / pneumonia without complications\n• Hyperbilirubinemia requiring exchange transfusion\n• Seizures\n• Major congenital malformations (pre-surgical stabilization, not requiring ventilation)\n• Cholestasis significant enough requiring work up and in-hospital management\n• Congestive heart failure or shock Mother's stay and food in the hospital for\nbreastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in\nthe package rate",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_176",
+      "text": "Procedure: Advanced Neonatal Care Package:\nBabies with birthweight of 1200-1499 g or\nBabies of any birthweight with at least one of the following conditions:\n• Any condition requiring invasive ventilation longer than 24 hours\n• Hypoxic Ischemic encephalopathy requiring Therapeutic Hypothermia\n• Cardiac rhythm disorders needing intervention (the cost of cardiac surgery or implant will be covered under cardiac surgery packages)\n• Sepsis with complications such as meningitis or bone and joint infection, DIC or shock\n• Renal failure requiring dialysis\n• Inborn errors of metabolism\nMother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in the package rate, Specialty: Neo - natal Care, Price: ₹6,000",
+      "metadata": {
+        "procedure_name": "Advanced Neonatal Care Package:\nBabies with birthweight of 1200-1499 g or\nBabies of any birthweight with at least one of the following conditions:\n• Any condition requiring invasive ventilation longer than 24 hours\n• Hypoxic Ischemic encephalopathy requiring Therapeutic Hypothermia\n• Cardiac rhythm disorders needing intervention (the cost of cardiac surgery or implant will be covered under cardiac surgery packages)\n• Sepsis with complications such as meningitis or bone and joint infection, DIC or shock\n• Renal failure requiring dialysis\n• Inborn errors of metabolism\nMother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in the package rate",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "6,000"
+      }
+    },
+    {
+      "id": "proc_177",
+      "text": "Procedure: Critical Care Neonatal Package:\nBabies with birthweight of <1200 g or\nBabies of any birthweight with at least one of the following conditions:\n• Severe Respiratory Failure requiring High Frequency Ventilation or inhaled Nitric Oxide (iNO)\n• Multisystem failure requiring multiple organ support including mechanical ventilation and multiple inotropes\n• Critical congenital heart disease Mother's stay and food in the hospital for\nbreastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in\nthe package rate, Specialty: Neo - natal Care, Price: ₹7,000",
+      "metadata": {
+        "procedure_name": "Critical Care Neonatal Package:\nBabies with birthweight of <1200 g or\nBabies of any birthweight with at least one of the following conditions:\n• Severe Respiratory Failure requiring High Frequency Ventilation or inhaled Nitric Oxide (iNO)\n• Multisystem failure requiring multiple organ support including mechanical ventilation and multiple inotropes\n• Critical congenital heart disease Mother's stay and food in the hospital for\nbreastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in\nthe package rate",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "7,000"
+      }
+    },
+    {
+      "id": "proc_178",
+      "text": "Procedure: Chronic Care Package: If the baby requires stay beyond the upper limit of usual stay in Package no MN004A or MN005A for conditions like severe BPD requiring respiratory support, severe NEC requiring prolonged TPN support, Specialty: Neo - natal Care, Price: ₹3,000",
+      "metadata": {
+        "procedure_name": "Chronic Care Package: If the baby requires stay beyond the upper limit of usual stay in Package no MN004A or MN005A for conditions like severe BPD requiring respiratory support, severe NEC requiring prolonged TPN support",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "3,000"
+      }
+    },
+    {
+      "id": "proc_179",
+      "text": "Procedure: High Risk Newborn Post Discharge Care Package (Protocol Driven), Specialty: Neo - natal Care, Price: ₹2,400",
+      "metadata": {
+        "procedure_name": "High Risk Newborn Post Discharge Care Package (Protocol Driven)",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "2,400"
+      }
+    },
+    {
+      "id": "proc_180",
+      "text": "Procedure: Laser Therapy for Retinopathy of Prematurity\n(Irrespective of no. of eyes affected) - per session, Specialty: Neo - natal Care, Price: ₹1,500",
+      "metadata": {
+        "procedure_name": "Laser Therapy for Retinopathy of Prematurity\n(Irrespective of no. of eyes affected) - per session",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "1,500"
+      }
+    },
+    {
+      "id": "proc_181",
+      "text": "Procedure: Advanced Surgery for Retinopathy of Prematurity, Specialty: Neo - natal Care, Price: ₹15,000",
+      "metadata": {
+        "procedure_name": "Advanced Surgery for Retinopathy of Prematurity",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "15,000"
+      }
+    },
+    {
+      "id": "proc_182",
+      "text": "Procedure: Ventriculoperitoneal Shunt Surgery (VP) or Omaya Reservoir or External Drainage for Hydrocephalus, Specialty: Neo - natal Care, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "Ventriculoperitoneal Shunt Surgery (VP) or Omaya Reservoir or External Drainage for Hydrocephalus",
+        "specialty": "Neo - natal Care",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_183",
+      "text": "Procedure: Cyclophosphamide + Epirubcin, Specialty: Medical Oncology, Price: ₹7,200",
+      "metadata": {
+        "procedure_name": "Cyclophosphamide + Epirubcin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,200"
+      }
+    },
+    {
+      "id": "proc_184",
+      "text": "Procedure: Weekly Paclitaxel for Adjuvant Therapy, Specialty: Medical Oncology, Price: ₹5,800",
+      "metadata": {
+        "procedure_name": "Weekly Paclitaxel for Adjuvant Therapy",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,800"
+      }
+    },
+    {
+      "id": "proc_185",
+      "text": "Procedure: Weekly Paclitaxel in metastatic setting, Specialty: Medical Oncology, Price: ₹5,800",
+      "metadata": {
+        "procedure_name": "Weekly Paclitaxel in metastatic setting",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,800"
+      }
+    },
+    {
+      "id": "proc_186",
+      "text": "Procedure: Cyclophosphamide + Methotrexate + 5 - FU, Specialty: Medical Oncology, Price: ₹3,200",
+      "metadata": {
+        "procedure_name": "Cyclophosphamide + Methotrexate + 5 - FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "3,200"
+      }
+    },
+    {
+      "id": "proc_187",
+      "text": "Procedure: Docetaxel + Cyclophosphamide, Specialty: Medical Oncology, Price: ₹19,800",
+      "metadata": {
+        "procedure_name": "Docetaxel + Cyclophosphamide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "19,800"
+      }
+    },
+    {
+      "id": "proc_188",
+      "text": "Procedure: Trastuzumab, Specialty: Medical Oncology, Price: ₹21,200",
+      "metadata": {
+        "procedure_name": "Trastuzumab",
+        "specialty": "Medical Oncology",
+        "cost_inr": "21,200"
+      }
+    },
+    {
+      "id": "proc_189",
+      "text": "Procedure: Tamoxifen, Specialty: Medical Oncology, Price: ₹1,200",
+      "metadata": {
+        "procedure_name": "Tamoxifen",
+        "specialty": "Medical Oncology",
+        "cost_inr": "1,200"
+      }
+    },
+    {
+      "id": "proc_190",
+      "text": "Procedure: Letrozole, Specialty: Medical Oncology, Price: ₹3,900",
+      "metadata": {
+        "procedure_name": "Letrozole",
+        "specialty": "Medical Oncology",
+        "cost_inr": "3,900"
+      }
+    },
+    {
+      "id": "proc_191",
+      "text": "Procedure: Carboplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹14,900",
+      "metadata": {
+        "procedure_name": "Carboplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,900"
+      }
+    },
+    {
+      "id": "proc_192",
+      "text": "Procedure: Capecitabine, Specialty: Medical Oncology, Price: ₹7,400",
+      "metadata": {
+        "procedure_name": "Capecitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,400"
+      }
+    },
+    {
+      "id": "proc_193",
+      "text": "Procedure: Carboplatin + Gemcitabine, Specialty: Medical Oncology, Price: ₹13,900",
+      "metadata": {
+        "procedure_name": "Carboplatin + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,900"
+      }
+    },
+    {
+      "id": "proc_194",
+      "text": "Procedure: Cyclophosphamide + Adriamycin, Specialty: Medical Oncology, Price: ₹4,500",
+      "metadata": {
+        "procedure_name": "Cyclophosphamide + Adriamycin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,500"
+      }
+    },
+    {
+      "id": "proc_195",
+      "text": "Procedure: Fulvestrant, Specialty: Medical Oncology, Price: ₹11,000",
+      "metadata": {
+        "procedure_name": "Fulvestrant",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,000"
+      }
+    },
+    {
+      "id": "proc_196",
+      "text": "Procedure: Paclitaxel, Specialty: Medical Oncology, Price: ₹11,800",
+      "metadata": {
+        "procedure_name": "Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,800"
+      }
+    },
+    {
+      "id": "proc_197",
+      "text": "Procedure: Exemestane, Specialty: Medical Oncology, Price: ₹10,400",
+      "metadata": {
+        "procedure_name": "Exemestane",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,400"
+      }
+    },
+    {
+      "id": "proc_198",
+      "text": "Procedure: Zoledronic Acid, Specialty: Medical Oncology, Price: ₹4,500",
+      "metadata": {
+        "procedure_name": "Zoledronic Acid",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,500"
+      }
+    },
+    {
+      "id": "proc_199",
+      "text": "Procedure: Cisplatin + Irinotecan, Specialty: Medical Oncology, Price: ₹10,200",
+      "metadata": {
+        "procedure_name": "Cisplatin + Irinotecan",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,200"
+      }
+    },
+    {
+      "id": "proc_200",
+      "text": "Procedure: Lipodox + Carboplatin, Specialty: Medical Oncology, Price: ₹17,200",
+      "metadata": {
+        "procedure_name": "Lipodox + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "17,200"
+      }
+    },
+    {
+      "id": "proc_201",
+      "text": "Procedure: Etoposide, Specialty: Medical Oncology, Price: ₹3,400",
+      "metadata": {
+        "procedure_name": "Etoposide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "3,400"
+      }
+    },
+    {
+      "id": "proc_202",
+      "text": "Procedure: Irinotecan, Specialty: Medical Oncology, Price: ₹8,400",
+      "metadata": {
+        "procedure_name": "Irinotecan",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,400"
+      }
+    },
+    {
+      "id": "proc_203",
+      "text": "Procedure: Lipodox, Specialty: Medical Oncology, Price: ₹14,800",
+      "metadata": {
+        "procedure_name": "Lipodox",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,800"
+      }
+    },
+    {
+      "id": "proc_204",
+      "text": "Procedure: Carboplatin + Gemcitabine, Specialty: Medical Oncology, Price: ₹13,900",
+      "metadata": {
+        "procedure_name": "Carboplatin + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,900"
+      }
+    },
+    {
+      "id": "proc_205",
+      "text": "Procedure: Carboplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹14,700",
+      "metadata": {
+        "procedure_name": "Carboplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,700"
+      }
+    },
+    {
+      "id": "proc_206",
+      "text": "Procedure: Carboplatin (AUC 7), Specialty: Medical Oncology, Price: ₹5,800",
+      "metadata": {
+        "procedure_name": "Carboplatin (AUC 7)",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,800"
+      }
+    },
+    {
+      "id": "proc_207",
+      "text": "Procedure: Bleomycin + Etoposide + Cisplatin, Specialty: Medical Oncology, Price: ₹11,600",
+      "metadata": {
+        "procedure_name": "Bleomycin + Etoposide + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,600"
+      }
+    },
+    {
+      "id": "proc_208",
+      "text": "Procedure: Etoposide + Cisplatin, Specialty: Medical Oncology, Price: ₹10,000",
+      "metadata": {
+        "procedure_name": "Etoposide + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,000"
+      }
+    },
+    {
+      "id": "proc_209",
+      "text": "Procedure: Gemcitabine + Oxaliplatin, Specialty: Medical Oncology, Price: ₹17,500",
+      "metadata": {
+        "procedure_name": "Gemcitabine + Oxaliplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "17,500"
+      }
+    },
+    {
+      "id": "proc_210",
+      "text": "Procedure: Gemcitabine + Paclitaxel, Specialty: Medical Oncology, Price: ₹17,500",
+      "metadata": {
+        "procedure_name": "Gemcitabine + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "17,500"
+      }
+    },
+    {
+      "id": "proc_211",
+      "text": "Procedure: Paclitaxel + Ifosfamide + Cisplatin, Specialty: Medical Oncology, Price: ₹24,400",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Ifosfamide + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "24,400"
+      }
+    },
+    {
+      "id": "proc_212",
+      "text": "Procedure: Vinblastin + Ifosfamide + Cisplatin, Specialty: Medical Oncology, Price: ₹12,600",
+      "metadata": {
+        "procedure_name": "Vinblastin + Ifosfamide + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,600"
+      }
+    },
+    {
+      "id": "proc_213",
+      "text": "Procedure: EMA - CO, Specialty: Medical Oncology, Price: ₹11,400",
+      "metadata": {
+        "procedure_name": "EMA - CO",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,400"
+      }
+    },
+    {
+      "id": "proc_214",
+      "text": "Procedure: EMA - EP, Specialty: Medical Oncology, Price: ₹12,200",
+      "metadata": {
+        "procedure_name": "EMA - EP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,200"
+      }
+    },
+    {
+      "id": "proc_215",
+      "text": "Procedure: Methotrexate, Specialty: Medical Oncology, Price: ₹1,100",
+      "metadata": {
+        "procedure_name": "Methotrexate",
+        "specialty": "Medical Oncology",
+        "cost_inr": "1,100"
+      }
+    },
+    {
+      "id": "proc_216",
+      "text": "Procedure: Carboplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹14,900",
+      "metadata": {
+        "procedure_name": "Carboplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,900"
+      }
+    },
+    {
+      "id": "proc_217",
+      "text": "Procedure: Cisplatin, Specialty: Medical Oncology, Price: ₹2,200",
+      "metadata": {
+        "procedure_name": "Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "2,200"
+      }
+    },
+    {
+      "id": "proc_218",
+      "text": "Procedure: Carboplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹14,900",
+      "metadata": {
+        "procedure_name": "Carboplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,900"
+      }
+    },
+    {
+      "id": "proc_219",
+      "text": "Procedure: Cisplatin + Doxorubicin, Specialty: Medical Oncology, Price: ₹4,200",
+      "metadata": {
+        "procedure_name": "Cisplatin + Doxorubicin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,200"
+      }
+    },
+    {
+      "id": "proc_220",
+      "text": "Procedure: Cisplatin + 5 FU, Specialty: Medical Oncology, Price: ₹7,600",
+      "metadata": {
+        "procedure_name": "Cisplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,600"
+      }
+    },
+    {
+      "id": "proc_221",
+      "text": "Procedure: Cisplatin, Specialty: Medical Oncology, Price: ₹2,200",
+      "metadata": {
+        "procedure_name": "Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "2,200"
+      }
+    },
+    {
+      "id": "proc_222",
+      "text": "Procedure: VTC + ITMZ for Relapsed Ewing Sarcoma, Specialty: Medical Oncology, Price: ₹22,400",
+      "metadata": {
+        "procedure_name": "VTC + ITMZ for Relapsed Ewing Sarcoma",
+        "specialty": "Medical Oncology",
+        "cost_inr": "22,400"
+      }
+    },
+    {
+      "id": "proc_223",
+      "text": "Procedure: EFT 2001, Specialty: Medical Oncology, Price: ₹9,700",
+      "metadata": {
+        "procedure_name": "EFT 2001",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,700"
+      }
+    },
+    {
+      "id": "proc_224",
+      "text": "Procedure: VAC + IE, Specialty: Medical Oncology, Price: ₹12,500",
+      "metadata": {
+        "procedure_name": "VAC + IE",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,500"
+      }
+    },
+    {
+      "id": "proc_225",
+      "text": "Procedure: Methotrexate + Doxorubicin + Cisplatin, Specialty: Medical Oncology, Price: ₹21,800",
+      "metadata": {
+        "procedure_name": "Methotrexate + Doxorubicin + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "21,800"
+      }
+    },
+    {
+      "id": "proc_226",
+      "text": "Procedure: Methotrexate + Doxorubicin + Cisplatin for\nRelapsed Osteogenic Sarcoma, Specialty: Medical Oncology, Price: ₹27,000",
+      "metadata": {
+        "procedure_name": "Methotrexate + Doxorubicin + Cisplatin for\nRelapsed Osteogenic Sarcoma",
+        "specialty": "Medical Oncology",
+        "cost_inr": "27,000"
+      }
+    },
+    {
+      "id": "proc_227",
+      "text": "Procedure: OGS - 12, Specialty: Medical Oncology, Price: ₹29,600",
+      "metadata": {
+        "procedure_name": "OGS - 12",
+        "specialty": "Medical Oncology",
+        "cost_inr": "29,600"
+      }
+    },
+    {
+      "id": "proc_228",
+      "text": "Procedure: OGS - 12, Specialty: Medical Oncology, Price: ₹36,200",
+      "metadata": {
+        "procedure_name": "OGS - 12",
+        "specialty": "Medical Oncology",
+        "cost_inr": "36,200"
+      }
+    },
+    {
+      "id": "proc_229",
+      "text": "Procedure: Gemcitabine + Docetaxel, Specialty: Medical Oncology, Price: ₹30,900",
+      "metadata": {
+        "procedure_name": "Gemcitabine + Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "30,900"
+      }
+    },
+    {
+      "id": "proc_230",
+      "text": "Procedure: Ifosfamide+  Adriamycin, Specialty: Medical Oncology, Price: ₹13,700",
+      "metadata": {
+        "procedure_name": "Ifosfamide+  Adriamycin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,700"
+      }
+    },
+    {
+      "id": "proc_231",
+      "text": "Procedure: Dacarbazine + Cisplatin, Specialty: Medical Oncology, Price: ₹7,100",
+      "metadata": {
+        "procedure_name": "Dacarbazine + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,100"
+      }
+    },
+    {
+      "id": "proc_232",
+      "text": "Procedure: Temozolamide, Specialty: Medical Oncology, Price: ₹23,100",
+      "metadata": {
+        "procedure_name": "Temozolamide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "23,100"
+      }
+    },
+    {
+      "id": "proc_233",
+      "text": "Procedure: 5 FU + Mitomycin C, Specialty: Medical Oncology, Price: ₹10,500",
+      "metadata": {
+        "procedure_name": "5 FU + Mitomycin C",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,500"
+      }
+    },
+    {
+      "id": "proc_234",
+      "text": "Procedure: Capecitabine + Mitomycin C, Specialty: Medical Oncology, Price: ₹13,800",
+      "metadata": {
+        "procedure_name": "Capecitabine + Mitomycin C",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,800"
+      }
+    },
+    {
+      "id": "proc_235",
+      "text": "Procedure: Cisplatin + 5 FU, Specialty: Medical Oncology, Price: ₹7,600",
+      "metadata": {
+        "procedure_name": "Cisplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,600"
+      }
+    },
+    {
+      "id": "proc_236",
+      "text": "Procedure: Carboplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹14,900",
+      "metadata": {
+        "procedure_name": "Carboplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,900"
+      }
+    },
+    {
+      "id": "proc_237",
+      "text": "Procedure: Cisplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹13,300",
+      "metadata": {
+        "procedure_name": "Cisplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,300"
+      }
+    },
+    {
+      "id": "proc_238",
+      "text": "Procedure: 5 FU + Leucovorin, Specialty: Medical Oncology, Price: ₹4,700",
+      "metadata": {
+        "procedure_name": "5 FU + Leucovorin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,700"
+      }
+    },
+    {
+      "id": "proc_239",
+      "text": "Procedure: Capecitabine + Irinotecan, Specialty: Medical Oncology, Price: ₹12,500",
+      "metadata": {
+        "procedure_name": "Capecitabine + Irinotecan",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,500"
+      }
+    },
+    {
+      "id": "proc_240",
+      "text": "Procedure: Folfox, Specialty: Medical Oncology, Price: ₹11,100",
+      "metadata": {
+        "procedure_name": "Folfox",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,100"
+      }
+    },
+    {
+      "id": "proc_241",
+      "text": "Procedure: Folfiri, Specialty: Medical Oncology, Price: ₹8,700",
+      "metadata": {
+        "procedure_name": "Folfiri",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,700"
+      }
+    },
+    {
+      "id": "proc_242",
+      "text": "Procedure: Capecitabine + Oxaliplatin, Specialty: Medical Oncology, Price: ₹16,500",
+      "metadata": {
+        "procedure_name": "Capecitabine + Oxaliplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "16,500"
+      }
+    },
+    {
+      "id": "proc_243",
+      "text": "Procedure: Capecitabine, Specialty: Medical Oncology, Price: ₹7,200",
+      "metadata": {
+        "procedure_name": "Capecitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,200"
+      }
+    },
+    {
+      "id": "proc_244",
+      "text": "Procedure: Capecitabine, Specialty: Medical Oncology, Price: ₹7,300",
+      "metadata": {
+        "procedure_name": "Capecitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,300"
+      }
+    },
+    {
+      "id": "proc_245",
+      "text": "Procedure: Folfirinox, Specialty: Medical Oncology, Price: ₹15,100",
+      "metadata": {
+        "procedure_name": "Folfirinox",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,100"
+      }
+    },
+    {
+      "id": "proc_246",
+      "text": "Procedure: Carboplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹14,900",
+      "metadata": {
+        "procedure_name": "Carboplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,900"
+      }
+    },
+    {
+      "id": "proc_247",
+      "text": "Procedure: Cisplatin + 5 FU, Specialty: Medical Oncology, Price: ₹9,600",
+      "metadata": {
+        "procedure_name": "Cisplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,600"
+      }
+    },
+    {
+      "id": "proc_248",
+      "text": "Procedure: Cisplatin + 5 FU, Specialty: Medical Oncology, Price: ₹9,600",
+      "metadata": {
+        "procedure_name": "Cisplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,600"
+      }
+    },
+    {
+      "id": "proc_249",
+      "text": "Procedure: Paclitaxel + Carboplatin for definitive Non - metastatic\n(With RT), Specialty: Medical Oncology, Price: ₹25,100",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin for definitive Non - metastatic\n(With RT)",
+        "specialty": "Medical Oncology",
+        "cost_inr": "25,100"
+      }
+    },
+    {
+      "id": "proc_250",
+      "text": "Procedure: Paclitaxel + Carboplatin for metastatic\n(Without RT), Specialty: Medical Oncology, Price: ₹25,100",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin for metastatic\n(Without RT)",
+        "specialty": "Medical Oncology",
+        "cost_inr": "25,100"
+      }
+    },
+    {
+      "id": "proc_251",
+      "text": "Procedure: Cisplatin + Docetaxel, Specialty: Medical Oncology, Price: ₹12,100",
+      "metadata": {
+        "procedure_name": "Cisplatin + Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,100"
+      }
+    },
+    {
+      "id": "proc_252",
+      "text": "Procedure: Irinotecan, Specialty: Medical Oncology, Price: ₹8,300",
+      "metadata": {
+        "procedure_name": "Irinotecan",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,300"
+      }
+    },
+    {
+      "id": "proc_253",
+      "text": "Procedure: 5 FU, Specialty: Medical Oncology, Price: ₹8,000",
+      "metadata": {
+        "procedure_name": "5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,000"
+      }
+    },
+    {
+      "id": "proc_254",
+      "text": "Procedure: Capecitabine, Specialty: Medical Oncology, Price: ₹7,200",
+      "metadata": {
+        "procedure_name": "Capecitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,200"
+      }
+    },
+    {
+      "id": "proc_255",
+      "text": "Procedure: CAPOX, Specialty: Medical Oncology, Price: ₹16,500",
+      "metadata": {
+        "procedure_name": "CAPOX",
+        "specialty": "Medical Oncology",
+        "cost_inr": "16,500"
+      }
+    },
+    {
+      "id": "proc_256",
+      "text": "Procedure: Docetaxel + Cisplatin + 5 FU, Specialty: Medical Oncology, Price: ₹16,400",
+      "metadata": {
+        "procedure_name": "Docetaxel + Cisplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "16,400"
+      }
+    },
+    {
+      "id": "proc_257",
+      "text": "Procedure: Docetaxel + Cisplatin + Xeloda, Specialty: Medical Oncology, Price: ₹19,700",
+      "metadata": {
+        "procedure_name": "Docetaxel + Cisplatin + Xeloda",
+        "specialty": "Medical Oncology",
+        "cost_inr": "19,700"
+      }
+    },
+    {
+      "id": "proc_258",
+      "text": "Procedure: Docetaxel + Oxaliplatin + 5 FU, Specialty: Medical Oncology, Price: ₹20,400",
+      "metadata": {
+        "procedure_name": "Docetaxel + Oxaliplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "20,400"
+      }
+    },
+    {
+      "id": "proc_259",
+      "text": "Procedure: Docetaxel + Oxaliplatin + Xeloda, Specialty: Medical Oncology, Price: ₹24,900",
+      "metadata": {
+        "procedure_name": "Docetaxel + Oxaliplatin + Xeloda",
+        "specialty": "Medical Oncology",
+        "cost_inr": "24,900"
+      }
+    },
+    {
+      "id": "proc_260",
+      "text": "Procedure: Folfiri, Specialty: Medical Oncology, Price: ₹8,700",
+      "metadata": {
+        "procedure_name": "Folfiri",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,700"
+      }
+    },
+    {
+      "id": "proc_261",
+      "text": "Procedure: Folfox, Specialty: Medical Oncology, Price: ₹11,100",
+      "metadata": {
+        "procedure_name": "Folfox",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,100"
+      }
+    },
+    {
+      "id": "proc_262",
+      "text": "Procedure: Paclitaxel, Specialty: Medical Oncology, Price: ₹5,800",
+      "metadata": {
+        "procedure_name": "Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,800"
+      }
+    },
+    {
+      "id": "proc_263",
+      "text": "Procedure: Doxorubicin, Specialty: Medical Oncology, Price: ₹10,000",
+      "metadata": {
+        "procedure_name": "Doxorubicin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,000"
+      }
+    },
+    {
+      "id": "proc_264",
+      "text": "Procedure: Sorafenib, Specialty: Medical Oncology, Price: ₹7,400",
+      "metadata": {
+        "procedure_name": "Sorafenib",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,400"
+      }
+    },
+    {
+      "id": "proc_265",
+      "text": "Procedure: Gemcitabine + Nanopaclitaxel, Specialty: Medical Oncology, Price: ₹23,500",
+      "metadata": {
+        "procedure_name": "Gemcitabine + Nanopaclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "23,500"
+      }
+    },
+    {
+      "id": "proc_266",
+      "text": "Procedure: Gemcitabine, Specialty: Medical Oncology, Price: ₹9,000",
+      "metadata": {
+        "procedure_name": "Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,000"
+      }
+    },
+    {
+      "id": "proc_267",
+      "text": "Procedure: Gemcitabine, Specialty: Medical Oncology, Price: ₹9,000",
+      "metadata": {
+        "procedure_name": "Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,000"
+      }
+    },
+    {
+      "id": "proc_268",
+      "text": "Procedure: Folfirinox, Specialty: Medical Oncology, Price: ₹15,500",
+      "metadata": {
+        "procedure_name": "Folfirinox",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,500"
+      }
+    },
+    {
+      "id": "proc_269",
+      "text": "Procedure: Capecitabine, Specialty: Medical Oncology, Price: ₹7,400",
+      "metadata": {
+        "procedure_name": "Capecitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,400"
+      }
+    },
+    {
+      "id": "proc_270",
+      "text": "Procedure: Capecitabine + Gemcitabine, Specialty: Medical Oncology, Price: ₹31,500",
+      "metadata": {
+        "procedure_name": "Capecitabine + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "31,500"
+      }
+    },
+    {
+      "id": "proc_271",
+      "text": "Procedure: Capecitabine, Specialty: Medical Oncology, Price: ₹7,300",
+      "metadata": {
+        "procedure_name": "Capecitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,300"
+      }
+    },
+    {
+      "id": "proc_272",
+      "text": "Procedure: Cisplatin + Gemcitabine, Specialty: Medical Oncology, Price: ₹10,900",
+      "metadata": {
+        "procedure_name": "Cisplatin + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,900"
+      }
+    },
+    {
+      "id": "proc_273",
+      "text": "Procedure: Folfiri, Specialty: Medical Oncology, Price: ₹8,900",
+      "metadata": {
+        "procedure_name": "Folfiri",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,900"
+      }
+    },
+    {
+      "id": "proc_274",
+      "text": "Procedure: Gemcitabine, Specialty: Medical Oncology, Price: ₹9,000",
+      "metadata": {
+        "procedure_name": "Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,000"
+      }
+    },
+    {
+      "id": "proc_275",
+      "text": "Procedure: Gemcitabine, Specialty: Medical Oncology, Price: ₹8,900",
+      "metadata": {
+        "procedure_name": "Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,900"
+      }
+    },
+    {
+      "id": "proc_276",
+      "text": "Procedure: Oxaliplatin + Gemcitabine, Specialty: Medical Oncology, Price: ₹17,100",
+      "metadata": {
+        "procedure_name": "Oxaliplatin + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "17,100"
+      }
+    },
+    {
+      "id": "proc_277",
+      "text": "Procedure: CAPIRI, Specialty: Medical Oncology, Price: ₹12,600",
+      "metadata": {
+        "procedure_name": "CAPIRI",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,600"
+      }
+    },
+    {
+      "id": "proc_278",
+      "text": "Procedure: Folfox, Specialty: Medical Oncology, Price: ₹11,300",
+      "metadata": {
+        "procedure_name": "Folfox",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,300"
+      }
+    },
+    {
+      "id": "proc_279",
+      "text": "Procedure: Imatinib, Specialty: Medical Oncology, Price: ₹19,400",
+      "metadata": {
+        "procedure_name": "Imatinib",
+        "specialty": "Medical Oncology",
+        "cost_inr": "19,400"
+      }
+    },
+    {
+      "id": "proc_280",
+      "text": "Procedure: Sunitinib, Specialty: Medical Oncology, Price: ₹24,400",
+      "metadata": {
+        "procedure_name": "Sunitinib",
+        "specialty": "Medical Oncology",
+        "cost_inr": "24,400"
+      }
+    },
+    {
+      "id": "proc_281",
+      "text": "Procedure: Temozolamide, Specialty: Medical Oncology, Price: ₹13,000",
+      "metadata": {
+        "procedure_name": "Temozolamide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,000"
+      }
+    },
+    {
+      "id": "proc_282",
+      "text": "Procedure: Temozolamide, Specialty: Medical Oncology, Price: ₹67,600",
+      "metadata": {
+        "procedure_name": "Temozolamide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "67,600"
+      }
+    },
+    {
+      "id": "proc_283",
+      "text": "Procedure: Gemcitabine + Cisplatin, Specialty: Medical Oncology, Price: ₹11,100",
+      "metadata": {
+        "procedure_name": "Gemcitabine + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,100"
+      }
+    },
+    {
+      "id": "proc_284",
+      "text": "Procedure: Pemetrexed + Cisplatin, Specialty: Medical Oncology, Price: ₹9,200",
+      "metadata": {
+        "procedure_name": "Pemetrexed + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,200"
+      }
+    },
+    {
+      "id": "proc_285",
+      "text": "Procedure: Pemetrexed + Carboplatin, Specialty: Medical Oncology, Price: ₹10,000",
+      "metadata": {
+        "procedure_name": "Pemetrexed + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,000"
+      }
+    },
+    {
+      "id": "proc_286",
+      "text": "Procedure: Cisplatin + Etoposide, Specialty: Medical Oncology, Price: ₹5,300",
+      "metadata": {
+        "procedure_name": "Cisplatin + Etoposide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,300"
+      }
+    },
+    {
+      "id": "proc_287",
+      "text": "Procedure: Cisplatin + Adriamycin, Specialty: Medical Oncology, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "Cisplatin + Adriamycin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_288",
+      "text": "Procedure: Cisplatin + Docetaxel, Specialty: Medical Oncology, Price: ₹12,400",
+      "metadata": {
+        "procedure_name": "Cisplatin + Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,400"
+      }
+    },
+    {
+      "id": "proc_289",
+      "text": "Procedure: Cisplatin, Specialty: Medical Oncology, Price: ₹9,800",
+      "metadata": {
+        "procedure_name": "Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,800"
+      }
+    },
+    {
+      "id": "proc_290",
+      "text": "Procedure: Carboplatin + Gemcitabine, Specialty: Medical Oncology, Price: ₹14,300",
+      "metadata": {
+        "procedure_name": "Carboplatin + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,300"
+      }
+    },
+    {
+      "id": "proc_291",
+      "text": "Procedure: Docetaxel + Cisplatin + 5 FU, Specialty: Medical Oncology, Price: ₹16,500",
+      "metadata": {
+        "procedure_name": "Docetaxel + Cisplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "16,500"
+      }
+    },
+    {
+      "id": "proc_292",
+      "text": "Procedure: Docetaxel, Specialty: Medical Oncology, Price: ₹15,000",
+      "metadata": {
+        "procedure_name": "Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,000"
+      }
+    },
+    {
+      "id": "proc_293",
+      "text": "Procedure: Docetaxel, Specialty: Medical Oncology, Price: ₹14,400",
+      "metadata": {
+        "procedure_name": "Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,400"
+      }
+    },
+    {
+      "id": "proc_294",
+      "text": "Procedure: Etoposide + Carboplatin, Specialty: Medical Oncology, Price: ₹7,100",
+      "metadata": {
+        "procedure_name": "Etoposide + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,100"
+      }
+    },
+    {
+      "id": "proc_295",
+      "text": "Procedure: Etoposide + Cisplatin, Specialty: Medical Oncology, Price: ₹9,200",
+      "metadata": {
+        "procedure_name": "Etoposide + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,200"
+      }
+    },
+    {
+      "id": "proc_296",
+      "text": "Procedure: Gemcitabine, Specialty: Medical Oncology, Price: ₹9,200",
+      "metadata": {
+        "procedure_name": "Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,200"
+      }
+    },
+    {
+      "id": "proc_297",
+      "text": "Procedure: Gemcitabine + Cisplatin, Specialty: Medical Oncology, Price: ₹11,100",
+      "metadata": {
+        "procedure_name": "Gemcitabine + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,100"
+      }
+    },
+    {
+      "id": "proc_298",
+      "text": "Procedure: Paclitaxel + Carboplatin, Specialty: Medical Oncology, Price: ₹7,700",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,700"
+      }
+    },
+    {
+      "id": "proc_299",
+      "text": "Procedure: Paclitaxel + Carboplatin, Specialty: Medical Oncology, Price: ₹15,100",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,100"
+      }
+    },
+    {
+      "id": "proc_300",
+      "text": "Procedure: Paclitaxel, Specialty: Medical Oncology, Price: ₹5,700",
+      "metadata": {
+        "procedure_name": "Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,700"
+      }
+    },
+    {
+      "id": "proc_301",
+      "text": "Procedure: Paclitaxel, Specialty: Medical Oncology, Price: ₹12,200",
+      "metadata": {
+        "procedure_name": "Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,200"
+      }
+    },
+    {
+      "id": "proc_302",
+      "text": "Procedure: Carboplatin, Specialty: Medical Oncology, Price: ₹2,400",
+      "metadata": {
+        "procedure_name": "Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "2,400"
+      }
+    },
+    {
+      "id": "proc_303",
+      "text": "Procedure: Cisplatin, Specialty: Medical Oncology, Price: ₹2,200",
+      "metadata": {
+        "procedure_name": "Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "2,200"
+      }
+    },
+    {
+      "id": "proc_304",
+      "text": "Procedure: Sunitinib, Specialty: Medical Oncology, Price: ₹26,400",
+      "metadata": {
+        "procedure_name": "Sunitinib",
+        "specialty": "Medical Oncology",
+        "cost_inr": "26,400"
+      }
+    },
+    {
+      "id": "proc_305",
+      "text": "Procedure: Cisplatin + Methotrexate + Vinblastin, Specialty: Medical Oncology, Price: ₹6,000",
+      "metadata": {
+        "procedure_name": "Cisplatin + Methotrexate + Vinblastin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "6,000"
+      }
+    },
+    {
+      "id": "proc_306",
+      "text": "Procedure: Carboplatin + Gemcitabine, Specialty: Medical Oncology, Price: ₹14,300",
+      "metadata": {
+        "procedure_name": "Carboplatin + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,300"
+      }
+    },
+    {
+      "id": "proc_307",
+      "text": "Procedure: Cisplatin + Gemcitabine, Specialty: Medical Oncology, Price: ₹11,100",
+      "metadata": {
+        "procedure_name": "Cisplatin + Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,100"
+      }
+    },
+    {
+      "id": "proc_308",
+      "text": "Procedure: Cisplatin + 5 FU, Specialty: Medical Oncology, Price: ₹7,800",
+      "metadata": {
+        "procedure_name": "Cisplatin + 5 FU",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,800"
+      }
+    },
+    {
+      "id": "proc_309",
+      "text": "Procedure: Cisplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹13,500",
+      "metadata": {
+        "procedure_name": "Cisplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,500"
+      }
+    },
+    {
+      "id": "proc_310",
+      "text": "Procedure: Docetaxel, Specialty: Medical Oncology, Price: ₹14,400",
+      "metadata": {
+        "procedure_name": "Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,400"
+      }
+    },
+    {
+      "id": "proc_311",
+      "text": "Procedure: Gemcitabine + Paclitaxel, Specialty: Medical Oncology, Price: ₹17,500",
+      "metadata": {
+        "procedure_name": "Gemcitabine + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "17,500"
+      }
+    },
+    {
+      "id": "proc_312",
+      "text": "Procedure: Gemcitabine, Specialty: Medical Oncology, Price: ₹9,200",
+      "metadata": {
+        "procedure_name": "Gemcitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,200"
+      }
+    },
+    {
+      "id": "proc_313",
+      "text": "Procedure: Methotrexate + Vinblastin + Doxorubicin + Cisplati, Specialty: Medical Oncology, Price: ₹6,600",
+      "metadata": {
+        "procedure_name": "Methotrexate + Vinblastin + Doxorubicin + Cisplati",
+        "specialty": "Medical Oncology",
+        "cost_inr": "6,600"
+      }
+    },
+    {
+      "id": "proc_314",
+      "text": "Procedure: Paclitaxel + Carboplatin, Specialty: Medical Oncology, Price: ₹15,100",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,100"
+      }
+    },
+    {
+      "id": "proc_315",
+      "text": "Procedure: Paclitaxel, Specialty: Medical Oncology, Price: ₹5,700",
+      "metadata": {
+        "procedure_name": "Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,700"
+      }
+    },
+    {
+      "id": "proc_316",
+      "text": "Procedure: Cisplatin + Paclitaxel, Specialty: Medical Oncology, Price: ₹13,500",
+      "metadata": {
+        "procedure_name": "Cisplatin + Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,500"
+      }
+    },
+    {
+      "id": "proc_317",
+      "text": "Procedure: 5 FU + Cisplatin, Specialty: Medical Oncology, Price: ₹7,800",
+      "metadata": {
+        "procedure_name": "5 FU + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,800"
+      }
+    },
+    {
+      "id": "proc_318",
+      "text": "Procedure: Capecitabine, Specialty: Medical Oncology, Price: ₹7,400",
+      "metadata": {
+        "procedure_name": "Capecitabine",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,400"
+      }
+    },
+    {
+      "id": "proc_319",
+      "text": "Procedure: Paclitaxel + Carboplatin, Specialty: Medical Oncology, Price: ₹15,100",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,100"
+      }
+    },
+    {
+      "id": "proc_320",
+      "text": "Procedure: Paclitaxel, Specialty: Medical Oncology, Price: ₹5,700",
+      "metadata": {
+        "procedure_name": "Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,700"
+      }
+    },
+    {
+      "id": "proc_321",
+      "text": "Procedure: Paclitaxel, Specialty: Medical Oncology, Price: ₹12,200",
+      "metadata": {
+        "procedure_name": "Paclitaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,200"
+      }
+    },
+    {
+      "id": "proc_322",
+      "text": "Procedure: Paclitaxel + Carboplatin, Specialty: Medical Oncology, Price: ₹7,900",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,900"
+      }
+    },
+    {
+      "id": "proc_323",
+      "text": "Procedure: Docetaxel, Specialty: Medical Oncology, Price: ₹11,700",
+      "metadata": {
+        "procedure_name": "Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,700"
+      }
+    },
+    {
+      "id": "proc_324",
+      "text": "Procedure: Docetaxel, Specialty: Medical Oncology, Price: ₹14,100",
+      "metadata": {
+        "procedure_name": "Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,100"
+      }
+    },
+    {
+      "id": "proc_325",
+      "text": "Procedure: Etoposide + Carboplatin, Specialty: Medical Oncology, Price: ₹7,100",
+      "metadata": {
+        "procedure_name": "Etoposide + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,100"
+      }
+    },
+    {
+      "id": "proc_326",
+      "text": "Procedure: LHRH Agonist, Specialty: Medical Oncology, Price: ₹15,300",
+      "metadata": {
+        "procedure_name": "LHRH Agonist",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,300"
+      }
+    },
+    {
+      "id": "proc_327",
+      "text": "Procedure: Mitoxantrone + Prednisolone, Specialty: Medical Oncology, Price: ₹4,200",
+      "metadata": {
+        "procedure_name": "Mitoxantrone + Prednisolone",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,200"
+      }
+    },
+    {
+      "id": "proc_328",
+      "text": "Procedure: Paclitaxel + Carboplatin, Specialty: Medical Oncology, Price: ₹7,700",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,700"
+      }
+    },
+    {
+      "id": "proc_329",
+      "text": "Procedure: Paclitaxel + Carboplatin, Specialty: Medical Oncology, Price: ₹15,100",
+      "metadata": {
+        "procedure_name": "Paclitaxel + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,100"
+      }
+    },
+    {
+      "id": "proc_330",
+      "text": "Procedure: Docetaxel, Specialty: Medical Oncology, Price: ₹14,700",
+      "metadata": {
+        "procedure_name": "Docetaxel",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,700"
+      }
+    },
+    {
+      "id": "proc_331",
+      "text": "Procedure: R - CEOP, Specialty: Medical Oncology, Price: ₹26,200",
+      "metadata": {
+        "procedure_name": "R - CEOP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "26,200"
+      }
+    },
+    {
+      "id": "proc_332",
+      "text": "Procedure: R - CHOP, Specialty: Medical Oncology, Price: ₹27,000",
+      "metadata": {
+        "procedure_name": "R - CHOP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "27,000"
+      }
+    },
+    {
+      "id": "proc_333",
+      "text": "Procedure: Rituxmab + Dexamethasone +\nHigh Dose Cytarabine + Cisplatin, Specialty: Medical Oncology, Price: ₹34,900",
+      "metadata": {
+        "procedure_name": "Rituxmab + Dexamethasone +\nHigh Dose Cytarabine + Cisplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "34,900"
+      }
+    },
+    {
+      "id": "proc_334",
+      "text": "Procedure: GDP - R, Specialty: Medical Oncology, Price: ₹35,300",
+      "metadata": {
+        "procedure_name": "GDP - R",
+        "specialty": "Medical Oncology",
+        "cost_inr": "35,300"
+      }
+    },
+    {
+      "id": "proc_335",
+      "text": "Procedure: ICE - R, Specialty: Medical Oncology, Price: ₹31,900",
+      "metadata": {
+        "procedure_name": "ICE - R",
+        "specialty": "Medical Oncology",
+        "cost_inr": "31,900"
+      }
+    },
+    {
+      "id": "proc_336",
+      "text": "Procedure: EPOCH, Specialty: Medical Oncology, Price: ₹31,700",
+      "metadata": {
+        "procedure_name": "EPOCH",
+        "specialty": "Medical Oncology",
+        "cost_inr": "31,700"
+      }
+    },
+    {
+      "id": "proc_337",
+      "text": "Procedure: Codox - M - IVAC / GMALL / BFM / Hyper CVAD, Specialty: Medical Oncology, Price: ₹34,500",
+      "metadata": {
+        "procedure_name": "Codox - M - IVAC / GMALL / BFM / Hyper CVAD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "34,500"
+      }
+    },
+    {
+      "id": "proc_338",
+      "text": "Procedure: Bendamustine + Rituximab, Specialty: Medical Oncology, Price: ₹30,700",
+      "metadata": {
+        "procedure_name": "Bendamustine + Rituximab",
+        "specialty": "Medical Oncology",
+        "cost_inr": "30,700"
+      }
+    },
+    {
+      "id": "proc_339",
+      "text": "Procedure: Lenalidomide + Rituximab, Specialty: Medical Oncology, Price: ₹27,500",
+      "metadata": {
+        "procedure_name": "Lenalidomide + Rituximab",
+        "specialty": "Medical Oncology",
+        "cost_inr": "27,500"
+      }
+    },
+    {
+      "id": "proc_340",
+      "text": "Procedure: Rituximab, Specialty: Medical Oncology, Price: ₹24,800",
+      "metadata": {
+        "procedure_name": "Rituximab",
+        "specialty": "Medical Oncology",
+        "cost_inr": "24,800"
+      }
+    },
+    {
+      "id": "proc_341",
+      "text": "Procedure: Rituximab + Cyclophosphamide + Vincristine + Prednisolone, Specialty: Medical Oncology, Price: ₹25,800",
+      "metadata": {
+        "procedure_name": "Rituximab + Cyclophosphamide + Vincristine + Prednisolone",
+        "specialty": "Medical Oncology",
+        "cost_inr": "25,800"
+      }
+    },
+    {
+      "id": "proc_342",
+      "text": "Procedure: Fludarabine + Cyclophosphamide, Specialty: Medical Oncology, Price: ₹18,100",
+      "metadata": {
+        "procedure_name": "Fludarabine + Cyclophosphamide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "18,100"
+      }
+    },
+    {
+      "id": "proc_343",
+      "text": "Procedure: Rituxmab + Chlorambucil, Specialty: Medical Oncology, Price: ₹24,900",
+      "metadata": {
+        "procedure_name": "Rituxmab + Chlorambucil",
+        "specialty": "Medical Oncology",
+        "cost_inr": "24,900"
+      }
+    },
+    {
+      "id": "proc_344",
+      "text": "Procedure: Rituximab + Fludarabine + Cyclophosphamide, Specialty: Medical Oncology, Price: ₹40,700",
+      "metadata": {
+        "procedure_name": "Rituximab + Fludarabine + Cyclophosphamide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "40,700"
+      }
+    },
+    {
+      "id": "proc_345",
+      "text": "Procedure: Lenalidomide, Specialty: Medical Oncology, Price: ₹4,800",
+      "metadata": {
+        "procedure_name": "Lenalidomide",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,800"
+      }
+    },
+    {
+      "id": "proc_346",
+      "text": "Procedure: CHOEP, Specialty: Medical Oncology, Price: ₹5,000",
+      "metadata": {
+        "procedure_name": "CHOEP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,000"
+      }
+    },
+    {
+      "id": "proc_347",
+      "text": "Procedure: CHOP, Specialty: Medical Oncology, Price: ₹4,000",
+      "metadata": {
+        "procedure_name": "CHOP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,000"
+      }
+    },
+    {
+      "id": "proc_348",
+      "text": "Procedure: SMILE, Specialty: Medical Oncology, Price: ₹19,300",
+      "metadata": {
+        "procedure_name": "SMILE",
+        "specialty": "Medical Oncology",
+        "cost_inr": "19,300"
+      }
+    },
+    {
+      "id": "proc_349",
+      "text": "Procedure: GELOX, Specialty: Medical Oncology, Price: ₹18,900",
+      "metadata": {
+        "procedure_name": "GELOX",
+        "specialty": "Medical Oncology",
+        "cost_inr": "18,900"
+      }
+    },
+    {
+      "id": "proc_350",
+      "text": "Procedure: LVP, Specialty: Medical Oncology, Price: ₹7,600",
+      "metadata": {
+        "procedure_name": "LVP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,600"
+      }
+    },
+    {
+      "id": "proc_351",
+      "text": "Procedure: COPP, Specialty: Medical Oncology, Price: ₹3,600",
+      "metadata": {
+        "procedure_name": "COPP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "3,600"
+      }
+    },
+    {
+      "id": "proc_352",
+      "text": "Procedure: ABVD, Specialty: Medical Oncology, Price: ₹10,200",
+      "metadata": {
+        "procedure_name": "ABVD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,200"
+      }
+    },
+    {
+      "id": "proc_353",
+      "text": "Procedure: AEVD, Specialty: Medical Oncology, Price: ₹10,200",
+      "metadata": {
+        "procedure_name": "AEVD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "10,200"
+      }
+    },
+    {
+      "id": "proc_354",
+      "text": "Procedure: ICE, Specialty: Medical Oncology, Price: ₹9,700",
+      "metadata": {
+        "procedure_name": "ICE",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,700"
+      }
+    },
+    {
+      "id": "proc_355",
+      "text": "Procedure: MINE, Specialty: Medical Oncology, Price: ₹9,700",
+      "metadata": {
+        "procedure_name": "MINE",
+        "specialty": "Medical Oncology",
+        "cost_inr": "9,700"
+      }
+    },
+    {
+      "id": "proc_356",
+      "text": "Procedure: PTCL - GDP, Specialty: Medical Oncology, Price: ₹12,500",
+      "metadata": {
+        "procedure_name": "PTCL - GDP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,500"
+      }
+    },
+    {
+      "id": "proc_357",
+      "text": "Procedure: DHAP, Specialty: Medical Oncology, Price: ₹11,500",
+      "metadata": {
+        "procedure_name": "DHAP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "11,500"
+      }
+    },
+    {
+      "id": "proc_358",
+      "text": "Procedure: LD, Specialty: Medical Oncology, Price: ₹6,000",
+      "metadata": {
+        "procedure_name": "LD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "6,000"
+      }
+    },
+    {
+      "id": "proc_359",
+      "text": "Procedure: POM DEX, Specialty: Medical Oncology, Price: ₹6,800",
+      "metadata": {
+        "procedure_name": "POM DEX",
+        "specialty": "Medical Oncology",
+        "cost_inr": "6,800"
+      }
+    },
+    {
+      "id": "proc_360",
+      "text": "Procedure: CTD, Specialty: Medical Oncology, Price: ₹4,000",
+      "metadata": {
+        "procedure_name": "CTD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,000"
+      }
+    },
+    {
+      "id": "proc_361",
+      "text": "Procedure: MPT, Specialty: Medical Oncology, Price: ₹4,100",
+      "metadata": {
+        "procedure_name": "MPT",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,100"
+      }
+    },
+    {
+      "id": "proc_362",
+      "text": "Procedure: VCD, Specialty: Medical Oncology, Price: ₹14,600",
+      "metadata": {
+        "procedure_name": "VCD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "14,600"
+      }
+    },
+    {
+      "id": "proc_363",
+      "text": "Procedure: VD, Specialty: Medical Oncology, Price: ₹13,300",
+      "metadata": {
+        "procedure_name": "VD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "13,300"
+      }
+    },
+    {
+      "id": "proc_364",
+      "text": "Procedure: VMP, Specialty: Medical Oncology, Price: ₹12,600",
+      "metadata": {
+        "procedure_name": "VMP",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,600"
+      }
+    },
+    {
+      "id": "proc_365",
+      "text": "Procedure: VRD, Specialty: Medical Oncology, Price: ₹17,800",
+      "metadata": {
+        "procedure_name": "VRD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "17,800"
+      }
+    },
+    {
+      "id": "proc_366",
+      "text": "Procedure: VTD, Specialty: Medical Oncology, Price: ₹15,000",
+      "metadata": {
+        "procedure_name": "VTD",
+        "specialty": "Medical Oncology",
+        "cost_inr": "15,000"
+      }
+    },
+    {
+      "id": "proc_367",
+      "text": "Procedure: Imatinib, Specialty: Medical Oncology, Price: ₹19,400",
+      "metadata": {
+        "procedure_name": "Imatinib",
+        "specialty": "Medical Oncology",
+        "cost_inr": "19,400"
+      }
+    },
+    {
+      "id": "proc_368",
+      "text": "Procedure: Hydroxurea, Specialty: Medical Oncology, Price: ₹2,200",
+      "metadata": {
+        "procedure_name": "Hydroxurea",
+        "specialty": "Medical Oncology",
+        "cost_inr": "2,200"
+      }
+    },
+    {
+      "id": "proc_369",
+      "text": "Procedure: Consolidation, Specialty: Medical Oncology, Price: ₹60,000",
+      "metadata": {
+        "procedure_name": "Consolidation",
+        "specialty": "Medical Oncology",
+        "cost_inr": "60,000"
+      }
+    },
+    {
+      "id": "proc_370",
+      "text": "Procedure: Induction, Specialty: Medical Oncology, Price: ₹96,000",
+      "metadata": {
+        "procedure_name": "Induction",
+        "specialty": "Medical Oncology",
+        "cost_inr": "96,000"
+      }
+    },
+    {
+      "id": "proc_371",
+      "text": "Procedure: Consolidation\n(Phase II, CNS Therapy Reinduction), Specialty: Medical Oncology, Price: ₹160,000",
+      "metadata": {
+        "procedure_name": "Consolidation\n(Phase II, CNS Therapy Reinduction)",
+        "specialty": "Medical Oncology",
+        "cost_inr": "160,000"
+      }
+    },
+    {
+      "id": "proc_372",
+      "text": "Procedure: Induction, Specialty: Medical Oncology, Price: ₹80,000",
+      "metadata": {
+        "procedure_name": "Induction",
+        "specialty": "Medical Oncology",
+        "cost_inr": "80,000"
+      }
+    },
+    {
+      "id": "proc_373",
+      "text": "Procedure: Maintenance, Specialty: Medical Oncology, Price: ₹4,000",
+      "metadata": {
+        "procedure_name": "Maintenance",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,000"
+      }
+    },
+    {
+      "id": "proc_374",
+      "text": "Procedure: Consolidation\n(Phase II, CNS Therapy Reinduction), Specialty: Medical Oncology, Price: ₹160,000",
+      "metadata": {
+        "procedure_name": "Consolidation\n(Phase II, CNS Therapy Reinduction)",
+        "specialty": "Medical Oncology",
+        "cost_inr": "160,000"
+      }
+    },
+    {
+      "id": "proc_375",
+      "text": "Procedure: Induction, Specialty: Medical Oncology, Price: ₹80,000",
+      "metadata": {
+        "procedure_name": "Induction",
+        "specialty": "Medical Oncology",
+        "cost_inr": "80,000"
+      }
+    },
+    {
+      "id": "proc_376",
+      "text": "Procedure: Maintenance, Specialty: Medical Oncology, Price: ₹4,000",
+      "metadata": {
+        "procedure_name": "Maintenance",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,000"
+      }
+    },
+    {
+      "id": "proc_377",
+      "text": "Procedure: High Risk Consolidation, Specialty: Medical Oncology, Price: ₹32,000",
+      "metadata": {
+        "procedure_name": "High Risk Consolidation",
+        "specialty": "Medical Oncology",
+        "cost_inr": "32,000"
+      }
+    },
+    {
+      "id": "proc_378",
+      "text": "Procedure: High Risk Induction, Specialty: Medical Oncology, Price: ₹96,000",
+      "metadata": {
+        "procedure_name": "High Risk Induction",
+        "specialty": "Medical Oncology",
+        "cost_inr": "96,000"
+      }
+    },
+    {
+      "id": "proc_379",
+      "text": "Procedure: High Risk Maintenance, Specialty: Medical Oncology, Price: ₹8,000",
+      "metadata": {
+        "procedure_name": "High Risk Maintenance",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,000"
+      }
+    },
+    {
+      "id": "proc_380",
+      "text": "Procedure: Low Risk Consolidation, Specialty: Medical Oncology, Price: ₹12,000",
+      "metadata": {
+        "procedure_name": "Low Risk Consolidation",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,000"
+      }
+    },
+    {
+      "id": "proc_381",
+      "text": "Procedure: Low Risk Induction, Specialty: Medical Oncology, Price: ₹80,000",
+      "metadata": {
+        "procedure_name": "Low Risk Induction",
+        "specialty": "Medical Oncology",
+        "cost_inr": "80,000"
+      }
+    },
+    {
+      "id": "proc_382",
+      "text": "Procedure: First Line Antibiotics, Specialty: Medical Oncology, Price: ₹28,000",
+      "metadata": {
+        "procedure_name": "First Line Antibiotics",
+        "specialty": "Medical Oncology",
+        "cost_inr": "28,000"
+      }
+    },
+    {
+      "id": "proc_383",
+      "text": "Procedure: Second Line Antibiotics and Antifungals, Specialty: Medical Oncology, Price: ₹60,000",
+      "metadata": {
+        "procedure_name": "Second Line Antibiotics and Antifungals",
+        "specialty": "Medical Oncology",
+        "cost_inr": "60,000"
+      }
+    },
+    {
+      "id": "proc_384",
+      "text": "Procedure: Chemotherapy Complications - Tumor Lysis\nSyndrome, Specialty: Medical Oncology, Price: ₹24,000",
+      "metadata": {
+        "procedure_name": "Chemotherapy Complications - Tumor Lysis\nSyndrome",
+        "specialty": "Medical Oncology",
+        "cost_inr": "24,000"
+      }
+    },
+    {
+      "id": "proc_385",
+      "text": "Procedure: Granulocyte Colony Stimulating Factor Use, Specialty: Medical Oncology, Price: ₹12,800",
+      "metadata": {
+        "procedure_name": "Granulocyte Colony Stimulating Factor Use",
+        "specialty": "Medical Oncology",
+        "cost_inr": "12,800"
+      }
+    },
+    {
+      "id": "proc_386",
+      "text": "Procedure: Langerhans Cell Histiocytosis (Histiocytosis Protocol - Induction), Specialty: Medical Oncology, Price: ₹22,400",
+      "metadata": {
+        "procedure_name": "Langerhans Cell Histiocytosis (Histiocytosis Protocol - Induction)",
+        "specialty": "Medical Oncology",
+        "cost_inr": "22,400"
+      }
+    },
+    {
+      "id": "proc_387",
+      "text": "Procedure: Langerhans Cell Histiocytosis\n(Histiocytosis Protocol - Maintenance), Specialty: Medical Oncology, Price: ₹17,000",
+      "metadata": {
+        "procedure_name": "Langerhans Cell Histiocytosis\n(Histiocytosis Protocol - Maintenance)",
+        "specialty": "Medical Oncology",
+        "cost_inr": "17,000"
+      }
+    },
+    {
+      "id": "proc_388",
+      "text": "Procedure: Vincristine + Carboplatin, Specialty: Medical Oncology, Price: ₹5,600",
+      "metadata": {
+        "procedure_name": "Vincristine + Carboplatin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "5,600"
+      }
+    },
+    {
+      "id": "proc_389",
+      "text": "Procedure: Vinblastin, Specialty: Medical Oncology, Price: ₹1,900",
+      "metadata": {
+        "procedure_name": "Vinblastin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "1,900"
+      }
+    },
+    {
+      "id": "proc_390",
+      "text": "Procedure: PACKER, Specialty: Medical Oncology, Price: ₹4,900",
+      "metadata": {
+        "procedure_name": "PACKER",
+        "specialty": "Medical Oncology",
+        "cost_inr": "4,900"
+      }
+    },
+    {
+      "id": "proc_391",
+      "text": "Procedure: CET, Specialty: Medical Oncology, Price: ₹8,300",
+      "metadata": {
+        "procedure_name": "CET",
+        "specialty": "Medical Oncology",
+        "cost_inr": "8,300"
+      }
+    },
+    {
+      "id": "proc_392",
+      "text": "Procedure: Cabroplatin + Etoposide + Cyclophosphamide + Doxorubicin, Specialty: Medical Oncology, Price: ₹7,900",
+      "metadata": {
+        "procedure_name": "Cabroplatin + Etoposide + Cyclophosphamide + Doxorubicin",
+        "specialty": "Medical Oncology",
+        "cost_inr": "7,900"
+      }
+    },
+    {
+      "id": "proc_393",
+      "text": "Procedure: RAPID COJEC, Specialty: Medical Oncology, Price: ₹6,800",
+      "metadata": {
+        "procedure_name": "RAPID COJEC",
+        "specialty": "Medical Oncology",
+        "cost_inr": "6,800"
+      }
+    }
+  ],
+  "total_count": 394
+}

@@ -1,0 +1,14 @@
+what is the fee for an MRI?,"
+You are Yuddhishtir, an intelligent hospital assistant.
+
+The user asked:
+""what is the fee for an MRI?""
+
+Relevant Data:
+Procedure: High end radiological diagnostic
+(CT, MRI, Imaging including nuclear imaging), Specialty: General Medicine, Pediatric Medical Management, Price: ₹5,000
+Procedure: Pre - Electro Convulsive Therapy (ECT) and Pre - Transcranial Magnetic Stimulation (TMS) Package (Cognitive Tests, Complete Haemogram, Liver Function Test, Renal Function Test, Serum Electrolytes, Electro Cardiogram (ECG), CT / MRI Brain, Electroencephalogram, Thyroid Function Test, VDRL, HIV Test, Vitamin B12 levels, Folate levels, Lipid Profile, Homocysteine levels), Specialty: Mental Disorders, Price: ₹10,000
+
+Using the data above, provide a helpful and polite answer. If the information is insufficient, clearly mention that and suggest next steps.
+"
+hello,"Sorry, I couldn’t find any info in the current knowledge base. Try rephrasing your question or ask about a specific doctor or procedure."
