@@ -1,10 +1,10 @@
 # render.yaml
 services:
   - type: web
-    name: yuddhishtir-backend
+    name: yuddhishthir-backend
     env: python
-    buildCommand: pip install -r requirements.txt
+    buildCommand: |
+      pip install --upgrade pip
+      pip install -r requirements.txt
+      pip install pandas
     startCommand: uvicorn backend:app --host 0.0.0.0 --port 8000
-    envVars:
-      - key: PORT
-        value: 8000
