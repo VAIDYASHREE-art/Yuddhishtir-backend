@@ -9,4 +9,5 @@ pandas
 streamlit
 python-dotenv
 openai
-torch
+torch==2.7.1
+TTS==0.22.0
